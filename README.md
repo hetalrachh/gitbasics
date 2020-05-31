@@ -1,6 +1,6 @@
 #git basics oreilly april month training by Daniel Chen - Git lesson
 
-#notes for local
+Notes for local
 
 - `init`: This creates/initializes a git repository in the current directory
         - You should do this only once (no nested git repositories)
@@ -17,7 +17,7 @@
        - `git checkout master`: go back to our original place
 - `HEAD`: place where we are looking at right now on our computer
 
-#notes for remote
+Notes for remote
 - `remote`: a place where git repository is stored e.g Github
         `git remote add origin <URL>` add a remote
 - `git push origin master`: to push the master branch on our local computer to a remote
