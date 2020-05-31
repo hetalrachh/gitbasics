@@ -1,7 +1,9 @@
 #git basics oreilly training
 
--init: this creates a git repository in the current directory
--status : this gives the current status of the git repository
--add : add the file to the staging area
--commit : commit the file to the repository
+- init: This creates/initializes a git repository in the current directory
+        You should do this only once (no nested git repositories)
+- status: This gives the current status of the git repository
+- add: add the file to the staging area
+- commit: commit the file to the repository
+          `commit -m` - commits a file with a commit message without opening a vi editor
 
