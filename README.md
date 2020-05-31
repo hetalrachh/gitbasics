@@ -1,4 +1,4 @@
-#git basics oreilly training by Daniel Chen
+#git basics oreilly training by Daniel Chen - Git lesson
 
 - `init`: This creates/initializes a git repository in the current directory
         - You should do this only once (no nested git repositories)
@@ -16,5 +16,6 @@
 - `HEAD`: place where we are looking at right now on our computer
 - `remote`: a place where git repository is stored e.g Github
         `git remote add origin <URL>` add a remote
-- `git push origin master`: to push the master branch on our local computer to a remote 
+- `git push origin master`: to push the master branch on our local computer to a remote
+- editing lines in different place is okay. you might get a merge conflict if you edit the same line/location
 
