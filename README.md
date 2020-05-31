@@ -11,6 +11,8 @@
 - diff: view the difference between current state and what git knows
 - `checkout`: moving our head
        - `checkout <hash> <file>`: restores file from <hash>
+       - `checkout <hash>`: moves to that location
+       - `git checkout master`: go back to our original place
 - `HEAD`: place where we are looking at right now on our computer
 - `remote`: a place where git repository is stored e.g Github
         `git remote add origin <URL>` add a remote
