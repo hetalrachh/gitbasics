@@ -1,4 +1,4 @@
-#git basics oreilly training
+#git basics oreilly training by Daniel Chen
 
 - `init`: This creates/initializes a git repository in the current directory
         - You should do this only once (no nested git repositories)
